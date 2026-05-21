@@ -1,6 +1,6 @@
 # 📍 Busca de CEP com Mapa Interativo (Leaflet)
 
-Um projeto simples, responsivo e funcional que realiza a requisição de dados de localização a partir de um CEP digitado pelo usuário e exibe instantaneamente o local correspondente em um mapa interativo.
+Um projeto simples e funcional que realiza a requisição de dados de localização a partir de um CEP digitado pelo usuário e exibe instantaneamente o local correspondente em um mapa interativo.
 
 ## 🚀 Tecnologias Utilizadas
 
