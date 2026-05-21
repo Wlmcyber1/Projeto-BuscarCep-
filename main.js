@@ -1,4 +1,4 @@
-//inicializando mapa com um setView de algum lugar, atribundo a variavel map
+//inicializando mapa com um setView 
 const map = L.map("map").setView([-14.235, -51.9253], 4);
 
 //carregando visualiamente as imagens no browser
